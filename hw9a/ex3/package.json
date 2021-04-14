@@ -1,0 +1,14 @@
+{
+  "name": "class-examples",
+  "version": "1.0.0",
+  "description": "Node examples for The JavaScript Way book",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "semver": "^5.3.0",
+    "moment": "^2.18.1"
+  },
+  "keywords": ["javascript", "node", "thejsway"],
+  "author": "Baptiste Pesquet"
+}
